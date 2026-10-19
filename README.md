@@ -476,3 +476,4 @@ For issues, questions, or contributions:
 **Version:** 0.1.0 (MVP)  
 **License:** TBD  
 **Last Updated:** 2026-10-18
+# EPR
